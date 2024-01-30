@@ -25,6 +25,9 @@ This data analysis project focuses on HR-related data, incorporating various Exc
 3. **Comparison Analysis:** Conducted male vs. female comparisons, calculating average age and salary.
 4. **Tenure-Based Eligibility Checker:** Determined bonus eligibility based on employee tenure.
 
+![Project Report](https://github.com/vsvkkengam/Employee_DataAnalysis_Excel/blob/main/Screenshot%202024-01-30%20155037.png)
+
+
 ### Data Visualization
 
 1. **Salary Spread Analysis:** Visualized the distribution of salaries within the organization.
